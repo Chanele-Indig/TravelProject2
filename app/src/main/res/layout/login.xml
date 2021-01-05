@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/imageedit_1_4005112095"
     android:gravity="center_vertical"
     android:orientation="vertical"
     android:padding="16dp"
@@ -12,7 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Account login"/>
+        android:text="Sign In | Sign Up" />
+
     <EditText
         android:id="@+id/email"
         android:layout_width="match_parent"
@@ -28,9 +30,26 @@
 
     <Button
         android:id="@+id/login"
+        style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login" />
+        android:backgroundTint="@android:color/transparent"
+        android:fontFamily="casual"
+        android:text="Sign In"
+        android:textColor="@color/design_default_color_error"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/register"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="Sign Up"
+        android:textColor="@color/design_default_color_error"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <ProgressBar
         android:id="@+id/progressBar"
