@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "538097443573",
+    "firebase_url": "https://travelsystem-2e635.firebaseio.com",
+    "project_id": "travelsystem-2e635",
+    "storage_bucket": "travelsystem-2e635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538097443573:android:1d2e452175ccef68209bbc",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYI5XBUilPSlnmwT9O8vfhG6NS5V3-p4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538097443573:android:65dfb59f66cd1f96209bbc",
+        "android_client_info": {
+          "package_name": "com.example.travelproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYI5XBUilPSlnmwT9O8vfhG6NS5V3-p4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538097443573:android:1128b3c1a4b211b5209bbc",
+        "android_client_info": {
+          "package_name": "com.ruthiandchana.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYI5XBUilPSlnmwT9O8vfhG6NS5V3-p4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538097443573:android:d7f601fb749c773b209bbc",
+        "android_client_info": {
+          "package_name": "com.ruthiandchana.travelproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYI5XBUilPSlnmwT9O8vfhG6NS5V3-p4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538097443573-i5i348bvgkspd1tdao6h791osdib4s61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
